@@ -35,6 +35,9 @@ TODO: Add project links
 <img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux" width="55" height="55"/> 
 <img src="https://skillicons.dev/icons?i=spring" title="Spring Framework" alt="Spring Framework" width="55" height="55"/> 
 <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind" alt="Tailwind" width="55" height="55"/>
+<img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" alt="Prometheus" width="55" height="55"/>
+
+
 </div>
 </div>
 </div>
@@ -66,6 +69,7 @@ TODO: Add project links
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tmux/tmux-original.svg" width="55" height="55">
 <img src="https://skillicons.dev/icons?i=sublime" title="Sublime" alt="Sublime" width="55" height="55"/>
 <img src="https://skillicons.dev/icons?i=vscode" title="Vscode" alt="Vscode" width="55" height="55"/>
+<img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="Nginx" width="55" height="55"/>
  
 </div>
 </div>
@@ -86,11 +90,6 @@ TODO: Add project links
 <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="55" height="55"/> 
 </div>
 </div>
----
-
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=ofabianomartins&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
 
 ---
 
@@ -107,7 +106,3 @@ TODO: Add project links
 ---
 <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=ofabianomartins&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofabianomartins&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-
----
-
-[![Matrix SVG](assets/matrix.svg)](assets/matrix.svg)
